@@ -1,0 +1,67 @@
+(* file Licence  © P. Cousot 2021 *)
+
+SOFTWARE LICENSE 
+
+This software is licensed, not sold. This software license and its dual
+govern the use, transfer, or redistribution of this software. This
+software is free for non-commercial, pedagogical, educational, or
+academic use, in which case you must be a student, faculty, or staff of
+an educational institution at the time of use. Dually, its commercial
+usage is granted provided a usage fee of π/2 US dollars is integrally
+paid to a non-profit organization fighting cancer each time any instance
+of this software or part of it is contemplated, dissected, copied,
+cited, displayed, distributed, sublicensed, rent, leased, lent, used,
+modified, or executed with or without a computer. 
+
+This static analysis software was developed in great hurry by a reputed 
+professional computer scientist who has full ownership of all intellectual 
+property rights including on all future developments by himself or any other
+high-quality contributor. 
+
+Consequently, in accordance with the highest professional code of
+practice and ethics, and the principle of undecidability, no contractual
+guarantee can be given that this licensed software fits any purpose and
+is not fake A.I.. Following common professional practice, this software
+is guaranteed to be incomprehensible, commentless, inefficient,
+incorrect, full of bugs, viruses and other malwares. It is certified
+that running this software on any past, present, or future computer may
+definitely cause irreversible damages to this computer, its hardware and
+software, its wired or wireless networking environment, and its
+connected or disconnected users either in its immediate proximity or far
+distant. Because this software is "as is," we do not provide support
+services for it. You fully bear the many risks of using it.  Therefore
+end-users are strongly encouraged to debug this software before any
+attempt to use it. Once fixed, usage of this software may have definite
+secondary effects including deep trauma and high depression when
+confronted with the myriads of bugs it will automatically discover in
+the programs on which it is run. In case of physical or psychological
+injury, the software designer is not liable even according to the
+statutory law.
+
+Your privacy is important to us. Some of the software features send or
+receive information when using those features. None of these features
+can be switched off in the non-existing user interface. By accepting
+this agreement and using the software you agree your bugs discovered by
+this software will be collected, used, and publicly disclosed without 
+needing your permission. No support services shall be provided.
+
+We hope we never have a dispute, but if we do, you and we agree that
+individual lawsuits, class action lawsuits, individual arbitrations,
+class-wide arbitrations, private attorney-general actions, and any other
+proceeding aren’t allowed. Instead, you and we agree that the neutral
+arbitrator of Adélie Land will always conclude that the developer of
+this software has had no responsibility of any kind, sort, and type.
+
+If you comply or do not comply with these license terms, you have no
+rights of any kind, sort, and type.
+
+Any comment should be electronically mailed to prabsint[AT][EMPTY
+STRING]gmail[MIRROR IMAGE OF A DOT]com and will remain forever
+unanswered. Each year, the best email will be randomly selected. Its
+author will be awarded a chocolate medal at the expense of the recipient.
+
+As this software is distributed in France, Quebec, Canada, and other
+francophone countries, some of the clauses in this agreement are
+provided below in French.
+
+Le version anglais de cette contract fait la loi.
